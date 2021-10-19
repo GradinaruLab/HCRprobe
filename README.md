@@ -1,5 +1,5 @@
 # HCRprobe
 Matlab codes for designing HCR probes
 
-Please download the mouse transcript database (total 6 files) using the following link and unzip it in the same folder where the codes are: https://www.dropbox.com/s/gmf01crmzj5or0g/mouse_transcript.zip?dl=0
+Please download the mouse transcript database (total 6 files) using the following link and unzip it in the same folder where the codes are: https://caltech.box.com/s/cp0hwdd99296nk7vhe3ycufdgc3xp4lw
 
